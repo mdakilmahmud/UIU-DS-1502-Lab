@@ -12,14 +12,16 @@ This repo contains all my lab works for **DS-1502**, which I completed during my
 These lab tasks cover fundamental programming concepts, practical coding exercises, and data science basics — designed to build a solid foundation for my journey in data science.
 
 ## 📂 Contents
-- **Lab 1:** [Description or Topic]
-- **Lab 2:** [Description or Topic]
-- **Lab 3:** [Description or Topic]
-- *(Add brief details or folders for each lab if you want)*
+- **08-12-2024:** For Loop
+- **30-12-2024:** Nested Loop
+- **05-01-2025:** Function
+- **14-01-2025:** Function (Continued)
+- **19-01-2025:** File Handling
+- **26-01-2025:** NumPy
 
 ## ⚙️ Tools & Languages
 - **Programming Language:** Python
-- **Tools/Libraries:** Jupyter Notebook, Pandas, NumPy, Matplotlib *(or whatever you used)*
+- **Tools/Libraries:** Jupyter Notebook, VS Code, NumPy
 
 ## 🚀 How to Run
 1. Clone the repository:
